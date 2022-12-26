@@ -1,0 +1,13 @@
+#left_shop{
+    border-right:1px solid black;
+    
+}
+.about1{
+    display: block;
+}
+.about2{
+    display:none;
+}
+.about_titles{
+    text-align: left;
+}
