@@ -3,7 +3,8 @@ import { useState ,useEffect} from "react";
 import { Container, Row, Col } from "reactstrap";
 import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
-import 'F:/Project/yellow-page/src/styles/custom.css'
+import 'D:/20US32/yellowpage/ajservice/src/styles/custom.css'
+//D:\20US32\yellowpage\ajservice\src\styles\custom.css
 import categoryImg01 from "../../../assets/images/category-01.png";
 import categoryImg02 from "../../../assets/images/category-02.png";
 import categoryImg03 from "../../../assets/images/category-03.png";
