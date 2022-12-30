@@ -27,11 +27,10 @@
 }
 
 .order__btn {
-  background: #ffffff;
+  background: #f00c0c;
   color: rgb(250, 244, 244) !important;
   transition: 0.3s;
-  border: 1px solid blue !important;
-  border-radius: 35px;
+ 
 }
 
 .order__btn:hover {
